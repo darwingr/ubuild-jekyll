@@ -80,19 +80,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Copyright © 2014–2021 <a href="" title="">Amisoft Consulting</a>
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-  col_3:
-    headline: ''
-    slug: ''
-    content: ''
 
 ---
